@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+}
+h1{
+    font-family: 'Caveat', cursive;
+    text-transform :uppercase;
+}
+.Marvel_memes{
+    margin-left:25%;
+    width: 50%;
+    text-align: center;
+    color:white;
+}
+.Marvel{
+    width:100%;
+    border:5px solid white;
+}
